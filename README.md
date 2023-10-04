@@ -1,9 +1,12 @@
-# Changes
-- Added support for using an animation component instead of an animator.
-
-__ORIGINAL PROJECT ARCHIVED__
+# __ORIGINAL PROJECT ARCHIVED__
 
 The original version of this project is not maintained anymore. If you still find it useful and would love to develop it further, feel free to fork it!
+
+
+Changes In this fork
+================================
+
+- Added support for using an animation component instead of an animator.
 
 
 Unity Animation Hierarchy Editor
